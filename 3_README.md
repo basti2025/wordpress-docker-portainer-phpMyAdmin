@@ -11,3 +11,20 @@ container_name: wordpress
       WORDPRESS_DB_USER: root
       WORDPRESS_DB_PASSWORD: example
       WORDPRESS_DB_NAME: wordpress
+
+
+WORDPRESS_DB_HOST:
+db 
+
+WORDPRESS_
+DB_USER:
+root 
+
+WORDPRESS_DB_PASSWORD
+
+: example 
+
+WORDPRESS_DB_NAME:
+
+wordpress
+
